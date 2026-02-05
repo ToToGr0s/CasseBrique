@@ -9219,3 +9219,444 @@ Sampler Limit: 32
 [2026.02.05-14.12.01:933][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5021.666992
 [2026.02.05-14.12.02:934][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.05-14.12.02:934][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5022.337402, Update Interval: 359.710693
+[2026.02.05-14.13.56:843][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2026.02.05-14.13.56:853][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.13.56:995][823]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Ball] ([2] browsable assets)...
+[2026.02.05-14.13.57:011][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Ball.BP_Ball]
+[2026.02.05-14.13.57:011][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Ball]
+[2026.02.05-14.13.57:011][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Ball" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Ball.uasset" SILENT=true
+[2026.02.05-14.13.57:044][823]LogSavePackage: Moving output files for package: /Game/BP/BP_Ball
+[2026.02.05-14.13.57:045][823]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_BallCBECECB84FAED21B67320BBA0F4DAF81.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Ball.uasset'
+[2026.02.05-14.13.57:068][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.508 ms (total: 14.7 sec)
+[2026.02.05-14.13.57:227][823]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.13.57:227][823]LogContentValidation: Enabled validators:
+[2026.02.05-14.13.57:227][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.13.57:227][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.13.57:227][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.13.57:227][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.13.57:227][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.13.57:227][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.13.57:227][823]AssetCheck: /Game/BP/BP_Ball Validating asset
+[2026.02.05-14.15.58:094][ 59]LogSlate: Window 'Delete Variable' being destroyed
+[2026.02.05-14.16.02:235][178]LogSlate: Window 'Delete Variable' being destroyed
+[2026.02.05-14.17.38:106][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2026.02.05-14.17.38:117][264]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/BaseLevel' took 0.123
+[2026.02.05-14.17.38:119][264]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Ball] ([2] browsable assets)...
+[2026.02.05-14.17.38:147][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Ball.BP_Ball]
+[2026.02.05-14.17.38:147][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Ball]
+[2026.02.05-14.17.38:147][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Ball" FILE="../../../../../../Git/CasseBrique/Arkanoid/Saved/Autosaves/Game/BP/BP_Ball_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.02.05-14.17.38:193][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_Ball_Auto3
+[2026.02.05-14.17.38:193][264]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_Ball_Auto3098E611F49945D993FF3738C81863A89.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Saved/Autosaves/Game/BP/BP_Ball_Auto3.uasset'
+[2026.02.05-14.17.38:197][264]LogFileHelpers: Auto-saving content packages took 0.079
+[2026.02.05-14.17.52:149][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.02.05-14.17.52:510][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.17.52:638][364]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Ball] ([2] browsable assets)...
+[2026.02.05-14.17.52:649][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Ball.BP_Ball]
+[2026.02.05-14.17.52:649][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Ball]
+[2026.02.05-14.17.52:649][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Ball" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Ball.uasset" SILENT=true
+[2026.02.05-14.17.52:677][364]LogSavePackage: Moving output files for package: /Game/BP/BP_Ball
+[2026.02.05-14.17.52:678][364]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_BallCD6D28164C2FFC23023A43985515E8A9.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Ball.uasset'
+[2026.02.05-14.17.52:698][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.695 ms (total: 14.9 sec)
+[2026.02.05-14.17.52:847][364]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.17.52:847][364]LogContentValidation: Enabled validators:
+[2026.02.05-14.17.52:847][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.17.52:847][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.17.52:847][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.17.52:847][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.17.52:847][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.17.52:847][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.17.52:847][364]AssetCheck: /Game/BP/BP_Ball Validating asset
+[2026.02.05-14.18.42:968][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2026.02.05-14.18.43:543][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.18.43:723][982]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Ball] ([2] browsable assets)...
+[2026.02.05-14.18.43:741][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Ball.BP_Ball]
+[2026.02.05-14.18.43:741][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Ball]
+[2026.02.05-14.18.43:741][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Ball" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Ball.uasset" SILENT=true
+[2026.02.05-14.18.43:787][982]LogSavePackage: Moving output files for package: /Game/BP/BP_Ball
+[2026.02.05-14.18.43:789][982]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_Ball9EC985994AF6C9585DA35482D43DE072.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Ball.uasset'
+[2026.02.05-14.18.43:820][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.138 ms (total: 15.2 sec)
+[2026.02.05-14.18.44:028][982]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.18.44:028][982]LogContentValidation: Enabled validators:
+[2026.02.05-14.18.44:028][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.18.44:028][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.18.44:028][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.18.44:028][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.18.44:028][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.18.44:028][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.18.44:028][982]AssetCheck: /Game/BP/BP_Ball Validating asset
+[2026.02.05-14.18.46:333][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.02.05-14.18.47:714][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.05-14.18.48:271][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.02.05-14.18.48:540][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.02.05-14.18.48:998][166]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.05-14.18.49:014][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.05-14.18.49:014][166]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2026.02.05-14.18.49:020][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005876s)
+[2026.02.05-14.18.49:020][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.005934s)
+[2026.02.05-14.18.49:064][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.05-14.18.49:069][166]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseLevel
+[2026.02.05-14.18.49:072][166]LogPlayLevel: PIE: World Init took: (0.002961s)
+[2026.02.05-14.18.49:074][166]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2026.02.05-14.18.49:074][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.05-14.18.49:074][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.05-14.18.49:074][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.05-14.18.49:074][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.05-14.18.49:074][166]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.05-14.18.49:074][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.05-14.18.49:074][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.05-14.18.49:074][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.05-14.18.49:074][166]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.05-14.18.49:074][166]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.05-14.18.49:074][166]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.05-14.18.49:077][166]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.05-14.18.49:107][166]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2026.02.05-14.18.49:107][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.05-14.18.49:107][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.05-14.18.49:108][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.05-14.18.49:109][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2026.02.05-14.18.49:109][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=49
+[2026.02.05-14.18.49:112][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2026.02.05-14.18.49:112][166]LogInit: FAudioDevice initialized with ID 49.
+[2026.02.05-14.18.49:112][166]LogAudio: Display: Audio Device (ID: 49) registered with world 'BaseLevel'.
+[2026.02.05-14.18.49:112][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2026.02.05-14.18.49:112][166]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2026.02.05-14.18.49:196][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-14.18.49:198][166]LogLoad: Game class is 'BPGM_ArkanoidGameMode_C'
+[2026.02.05-14.18.49:199][166]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 60) at 2026.02.05-15.18.49
+[2026.02.05-14.18.49:200][166]LogWorld: Bringing up level for play took: 0.003667
+[2026.02.05-14.18.49:205][166]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.02.05-14.18.49:215][166]PIE: Server logged in
+[2026.02.05-14.18.49:218][166]PIE: Play in editor total start time 0,205 seconds.
+[2026.02.05-14.18.54:656][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5434.378906
+[2026.02.05-14.18.54:814][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.05-14.18.54:814][473]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5434.518555, Update Interval: 303.035980
+[2026.02.05-14.19.13:011][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-14.19.13:011][534]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2026.02.05-14.19.13:012][534]LogSlate: Window 'Arkanoid Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.05-14.19.13:021][534]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-14.19.13:021][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-14.19.13:039][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.05-14.19.13:056][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-14.19.13:109][534]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.05-14.19.13:109][534]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2026.02.05-14.19.13:109][534]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=4
+[2026.02.05-14.19.13:112][534]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=2
+[2026.02.05-14.19.13:128][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2026.02.05-14.19.13:323][535]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.02.05-14.20.26:368][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.02.05-14.20.26:376][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.20.26:497][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Interface/WBP_HUD] ([2] browsable assets)...
+[2026.02.05-14.20.26:504][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/Interface/WBP_HUD.WBP_HUD]
+[2026.02.05-14.20.26:504][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Interface/WBP_HUD]
+[2026.02.05-14.20.26:504][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Interface/WBP_HUD" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset" SILENT=true
+[2026.02.05-14.20.26:524][727]LogSavePackage: Moving output files for package: /Game/BP/Interface/WBP_HUD
+[2026.02.05-14.20.26:526][727]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/WBP_HUDBFD2BC224A3913001DDB59A2EC5AB89C.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset'
+[2026.02.05-14.20.26:545][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.689 ms (total: 15.3 sec)
+[2026.02.05-14.20.26:685][727]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.20.26:685][727]LogContentValidation: Enabled validators:
+[2026.02.05-14.20.26:685][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.20.26:685][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.20.26:685][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.20.26:685][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.20.26:685][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.20.26:685][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.20.26:688][727]AssetCheck: /Game/BP/Interface/WBP_HUD Validating asset
+[2026.02.05-14.20.49:727][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2026.02.05-14.20.50:108][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.20.50:239][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Interface/WBP_HUD] ([2] browsable assets)...
+[2026.02.05-14.20.50:247][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/Interface/WBP_HUD.WBP_HUD]
+[2026.02.05-14.20.50:247][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Interface/WBP_HUD]
+[2026.02.05-14.20.50:247][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Interface/WBP_HUD" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset" SILENT=true
+[2026.02.05-14.20.50:270][ 66]LogSavePackage: Moving output files for package: /Game/BP/Interface/WBP_HUD
+[2026.02.05-14.20.50:272][ 66]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/WBP_HUD8A6D432D44DEF78FB2C519A9CBFD0943.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset'
+[2026.02.05-14.20.50:294][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.934 ms (total: 15.5 sec)
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: Enabled validators:
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.20.50:447][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.20.50:450][ 66]AssetCheck: /Game/BP/Interface/WBP_HUD Validating asset
+[2026.02.05-14.21.57:819][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.02.05-14.21.57:830][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.21.57:955][642]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Paddle] ([2] browsable assets)...
+[2026.02.05-14.21.57:982][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Paddle.BP_Paddle]
+[2026.02.05-14.21.57:982][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Paddle]
+[2026.02.05-14.21.57:982][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Paddle" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset" SILENT=true
+[2026.02.05-14.21.58:006][642]LogSavePackage: Moving output files for package: /Game/BP/BP_Paddle
+[2026.02.05-14.21.58:008][642]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_PaddleA8D14B134D82EB12C094AEB706A0FBA9.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset'
+[2026.02.05-14.21.58:027][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.105 ms (total: 15.7 sec)
+[2026.02.05-14.21.58:174][642]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.21.58:174][642]LogContentValidation: Enabled validators:
+[2026.02.05-14.21.58:174][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.21.58:174][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.21.58:174][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.21.58:174][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.21.58:175][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.21.58:175][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.21.58:175][642]AssetCheck: /Game/BP/BP_Paddle Validating asset
+[2026.02.05-14.21.59:657][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.05-14.22.00:178][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.02.05-14.22.00:939][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.02.05-14.22.30:643][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2026.02.05-14.22.31:222][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.22.31:360][981]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Paddle] ([2] browsable assets)...
+[2026.02.05-14.22.31:374][981]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Paddle.BP_Paddle]
+[2026.02.05-14.22.31:374][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Paddle]
+[2026.02.05-14.22.31:374][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Paddle" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset" SILENT=true
+[2026.02.05-14.22.31:404][981]LogSavePackage: Moving output files for package: /Game/BP/BP_Paddle
+[2026.02.05-14.22.31:405][981]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_PaddleEED0E287470E0F8787BEE48A483A3B7D.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset'
+[2026.02.05-14.22.31:427][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.988 ms (total: 15.9 sec)
+[2026.02.05-14.22.31:587][981]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.22.31:588][981]LogContentValidation: Enabled validators:
+[2026.02.05-14.22.31:588][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.22.31:588][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.22.31:588][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.22.31:588][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.22.31:588][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.22.31:588][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.22.31:589][981]AssetCheck: /Game/BP/BP_Paddle Validating asset
+[2026.02.05-14.22.41:846][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.05-14.22.41:857][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.22.41:999][307]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Paddle] ([2] browsable assets)...
+[2026.02.05-14.22.42:014][307]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Paddle.BP_Paddle]
+[2026.02.05-14.22.42:014][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Paddle]
+[2026.02.05-14.22.42:014][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Paddle" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset" SILENT=true
+[2026.02.05-14.22.42:046][307]LogSavePackage: Moving output files for package: /Game/BP/BP_Paddle
+[2026.02.05-14.22.42:047][307]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_PaddleE5AF4E274875C2A0D11237BEDC41F16A.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset'
+[2026.02.05-14.22.42:070][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.880 ms (total: 16.1 sec)
+[2026.02.05-14.22.42:219][307]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.22.42:219][307]LogContentValidation: Enabled validators:
+[2026.02.05-14.22.42:219][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.22.42:219][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.22.42:219][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.22.42:219][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.22.42:219][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.22.42:219][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.22.42:219][307]AssetCheck: /Game/BP/BP_Paddle Validating asset
+[2026.02.05-14.22.42:792][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.05-14.22.46:945][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2026.02.05-14.22.47:623][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.22.47:786][568]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Paddle] ([2] browsable assets)...
+[2026.02.05-14.22.47:803][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Paddle.BP_Paddle]
+[2026.02.05-14.22.47:803][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Paddle]
+[2026.02.05-14.22.47:803][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Paddle" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset" SILENT=true
+[2026.02.05-14.22.47:847][568]LogSavePackage: Moving output files for package: /Game/BP/BP_Paddle
+[2026.02.05-14.22.47:848][568]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_PaddleEAF6373F48AD9920F94C0E8829F2FAB1.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset'
+[2026.02.05-14.22.47:871][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 248.156 ms (total: 16.4 sec)
+[2026.02.05-14.22.48:031][568]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.22.48:031][568]LogContentValidation: Enabled validators:
+[2026.02.05-14.22.48:031][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.22.48:031][568]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.22.48:032][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.22.48:032][568]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.22.48:032][568]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.22.48:032][568]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.22.48:032][568]AssetCheck: /Game/BP/BP_Paddle Validating asset
+[2026.02.05-14.23.31:541][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.02.05-14.23.32:489][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.23.32:628][947]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Interface/WBP_HUD] ([2] browsable assets)...
+[2026.02.05-14.23.32:634][947]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/Interface/WBP_HUD.WBP_HUD]
+[2026.02.05-14.23.32:634][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Interface/WBP_HUD]
+[2026.02.05-14.23.32:634][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Interface/WBP_HUD" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset" SILENT=true
+[2026.02.05-14.23.32:661][947]LogSavePackage: Moving output files for package: /Game/BP/Interface/WBP_HUD
+[2026.02.05-14.23.32:662][947]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/WBP_HUD7EF2DE5A45272861DE5E5C94864A93B4.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset'
+[2026.02.05-14.23.32:682][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.823 ms (total: 16.6 sec)
+[2026.02.05-14.23.32:879][947]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.23.32:879][947]LogContentValidation: Enabled validators:
+[2026.02.05-14.23.32:879][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.23.32:879][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.23.32:879][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.23.32:879][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.23.32:880][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.23.32:880][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.23.32:882][947]AssetCheck: /Game/BP/Interface/WBP_HUD Validating asset
+[2026.02.05-14.24.13:039][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2026.02.05-14.24.13:708][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.24.13:865][411]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Interface/WBP_HUD] ([2] browsable assets)...
+[2026.02.05-14.24.13:876][411]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/Interface/WBP_HUD.WBP_HUD]
+[2026.02.05-14.24.13:876][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Interface/WBP_HUD]
+[2026.02.05-14.24.13:876][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Interface/WBP_HUD" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset" SILENT=true
+[2026.02.05-14.24.13:909][411]LogSavePackage: Moving output files for package: /Game/BP/Interface/WBP_HUD
+[2026.02.05-14.24.13:911][411]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/WBP_HUD793640724BEFD3B85A25A5A766D80468.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset'
+[2026.02.05-14.24.13:934][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.825 ms (total: 16.8 sec)
+[2026.02.05-14.24.14:108][411]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.24.14:108][411]LogContentValidation: Enabled validators:
+[2026.02.05-14.24.14:108][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.24.14:108][411]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.24.14:108][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.24.14:108][411]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.24.14:108][411]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.24.14:108][411]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.24.14:109][411]AssetCheck: /Game/BP/Interface/WBP_HUD Validating asset
+[2026.02.05-14.24.14:750][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.24.14:898][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/Interface/WBP_HUD] ([2] browsable assets)...
+[2026.02.05-14.24.14:898][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Interface/WBP_HUD]
+[2026.02.05-14.24.14:898][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Interface/WBP_HUD" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset" SILENT=true
+[2026.02.05-14.24.14:932][437]LogSavePackage: Moving output files for package: /Game/BP/Interface/WBP_HUD
+[2026.02.05-14.24.14:933][437]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/WBP_HUD129941B1498199574F5974A6EC74ECFC.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset'
+[2026.02.05-14.24.14:958][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.133 ms (total: 17.0 sec)
+[2026.02.05-14.24.15:127][437]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.24.15:127][437]LogContentValidation: Enabled validators:
+[2026.02.05-14.24.15:128][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.24.15:128][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.24.15:128][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.24.15:128][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.24.15:128][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.24.15:128][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.24.15:130][437]AssetCheck: /Game/BP/Interface/WBP_HUD Validating asset
+[2026.02.05-14.24.32:519][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5772.251465
+[2026.02.05-14.24.33:513][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.05-14.24.33:513][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5772.913574, Update Interval: 308.864410
+[2026.02.05-14.24.37:863][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.02.05-14.24.38:768][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.24.38:906][420]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Interface/WBP_HUD] ([2] browsable assets)...
+[2026.02.05-14.24.38:912][420]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/Interface/WBP_HUD.WBP_HUD]
+[2026.02.05-14.24.38:912][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Interface/WBP_HUD]
+[2026.02.05-14.24.38:912][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Interface/WBP_HUD" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset" SILENT=true
+[2026.02.05-14.24.38:937][420]LogSavePackage: Moving output files for package: /Game/BP/Interface/WBP_HUD
+[2026.02.05-14.24.38:939][420]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/WBP_HUDC73BFDB046A338509926ACBCF3547F1D.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_HUD.uasset'
+[2026.02.05-14.24.38:959][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.291 ms (total: 17.2 sec)
+[2026.02.05-14.24.39:117][420]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.24.39:117][420]LogContentValidation: Enabled validators:
+[2026.02.05-14.24.39:117][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.24.39:117][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.24.39:117][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.24.39:117][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.24.39:117][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.24.39:117][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.24.39:120][420]AssetCheck: /Game/BP/Interface/WBP_HUD Validating asset
+[2026.02.05-14.24.41:239][523]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.05-14.24.41:254][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.05-14.24.41:254][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2026.02.05-14.24.41:260][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006262s)
+[2026.02.05-14.24.41:260][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.006324s)
+[2026.02.05-14.24.41:304][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.02.05-14.24.41:309][523]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseLevel
+[2026.02.05-14.24.41:312][523]LogPlayLevel: PIE: World Init took: (0.002604s)
+[2026.02.05-14.24.41:313][523]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2026.02.05-14.24.41:313][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.05-14.24.41:313][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.05-14.24.41:313][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.05-14.24.41:314][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.05-14.24.41:314][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.05-14.24.41:314][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.05-14.24.41:314][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.05-14.24.41:314][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.05-14.24.41:314][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.05-14.24.41:314][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.05-14.24.41:314][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.05-14.24.41:317][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.05-14.24.41:344][523]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2026.02.05-14.24.41:344][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.05-14.24.41:344][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.05-14.24.41:344][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.05-14.24.41:345][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2026.02.05-14.24.41:345][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=50
+[2026.02.05-14.24.41:349][523]LogInit: FAudioDevice initialized with ID 50.
+[2026.02.05-14.24.41:349][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2026.02.05-14.24.41:349][523]LogAudio: Display: Audio Device (ID: 50) registered with world 'BaseLevel'.
+[2026.02.05-14.24.41:349][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2026.02.05-14.24.41:349][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2026.02.05-14.24.41:355][523]LogLoad: Game class is 'BPGM_ArkanoidGameMode_C'
+[2026.02.05-14.24.41:357][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 60) at 2026.02.05-15.24.41
+[2026.02.05-14.24.41:357][523]LogWorld: Bringing up level for play took: 0.002047
+[2026.02.05-14.24.41:360][523]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.02.05-14.24.41:364][523]PIE: Server logged in
+[2026.02.05-14.24.41:369][523]PIE: Play in editor total start time 0,116 seconds.
+[2026.02.05-14.24.46:272][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-14.24.46:272][797]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2026.02.05-14.24.46:273][797]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-14.24.46:273][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-14.24.46:284][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.05-14.24.46:296][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-14.24.46:344][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.05-14.24.46:344][797]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2026.02.05-14.24.46:344][797]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=4
+[2026.02.05-14.24.46:347][797]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=2
+[2026.02.05-14.24.46:354][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-14.24.46:358][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2026.02.05-14.24.46:526][798]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.02.05-14.24.55:690][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2026.02.05-14.24.55:698][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-14.24.55:823][300]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Paddle] ([2] browsable assets)...
+[2026.02.05-14.24.55:836][300]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Paddle.BP_Paddle]
+[2026.02.05-14.24.55:836][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Paddle]
+[2026.02.05-14.24.55:836][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Paddle" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset" SILENT=true
+[2026.02.05-14.24.55:861][300]LogSavePackage: Moving output files for package: /Game/BP/BP_Paddle
+[2026.02.05-14.24.55:862][300]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_PaddleF0F94AD148CB0FDD309AAABBE75F1CC2.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Paddle.uasset'
+[2026.02.05-14.24.55:883][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.138 ms (total: 17.4 sec)
+[2026.02.05-14.24.56:047][300]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-14.24.56:047][300]LogContentValidation: Enabled validators:
+[2026.02.05-14.24.56:047][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-14.24.56:047][300]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-14.24.56:047][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-14.24.56:047][300]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-14.24.56:047][300]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-14.24.56:047][300]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-14.24.56:048][300]AssetCheck: /Game/BP/BP_Paddle Validating asset
+[2026.02.05-14.24.57:452][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.05-14.24.57:465][383]LogPlayLevel: [PlayLevel] Compiling BP_Paddle before play...
+[2026.02.05-14.24.57:733][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.02.05-14.24.57:737][383]LogPlayLevel: PlayLevel: Blueprint regeneration took 273 ms (1 blueprints)
+[2026.02.05-14.24.57:737][383]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseLevel
+[2026.02.05-14.24.57:742][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005201s)
+[2026.02.05-14.24.57:742][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseLevel.BaseLevel to /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel (0.005260s)
+[2026.02.05-14.24.57:779][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.02.05-14.24.57:782][383]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseLevel
+[2026.02.05-14.24.57:784][383]LogPlayLevel: PIE: World Init took: (0.002376s)
+[2026.02.05-14.24.57:786][383]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2026.02.05-14.24.57:786][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.05-14.24.57:786][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.05-14.24.57:786][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.05-14.24.57:786][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.05-14.24.57:786][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.05-14.24.57:786][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.05-14.24.57:786][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.05-14.24.57:786][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.05-14.24.57:786][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.05-14.24.57:786][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.05-14.24.57:786][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.05-14.24.57:789][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.05-14.24.57:815][383]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2026.02.05-14.24.57:815][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.05-14.24.57:815][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.05-14.24.57:815][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.05-14.24.57:816][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2026.02.05-14.24.57:816][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=51
+[2026.02.05-14.24.57:820][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2026.02.05-14.24.57:820][383]LogInit: FAudioDevice initialized with ID 51.
+[2026.02.05-14.24.57:820][383]LogAudio: Display: Audio Device (ID: 51) registered with world 'BaseLevel'.
+[2026.02.05-14.24.57:820][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2026.02.05-14.24.57:820][383]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2026.02.05-14.24.57:894][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-14.24.57:895][383]LogLoad: Game class is 'BPGM_ArkanoidGameMode_C'
+[2026.02.05-14.24.57:897][383]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 60) at 2026.02.05-15.24.57
+[2026.02.05-14.24.57:898][383]LogWorld: Bringing up level for play took: 0.002751
+[2026.02.05-14.24.57:902][383]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.02.05-14.24.57:910][383]PIE: Server logged in
+[2026.02.05-14.24.57:912][383]PIE: Play in editor total start time 0,449 seconds.
+[2026.02.05-14.25.01:485][565]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-14.25.01:485][565]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-14.25.18:832][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-14.25.18:832][506]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BaseLevel
+[2026.02.05-14.25.18:832][506]LogSlate: Window 'Arkanoid Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.05-14.25.18:849][506]LogWorld: UWorld::CleanupWorld for BaseLevel, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-14.25.18:850][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-14.25.18:860][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.05-14.25.18:877][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-14.25.18:927][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2026.02.05-14.25.18:927][506]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=4
+[2026.02.05-14.25.18:931][506]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=2
+[2026.02.05-14.25.18:944][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2026.02.05-14.25.19:074][507]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.02.05-14.25.46:587][838]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.05-14.25.46:616][838]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.05-14.25.46:645][838]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.05-14.25.46:691][839]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.05-14.26.00:858][420]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Ball_Destroyer
+[2026.02.05-14.26.00:877][420]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.05-14.26.02:190][465]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Ball_Destroyer.BP_Ball_Destroyer
+[2026.02.05-14.26.02:191][465]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
