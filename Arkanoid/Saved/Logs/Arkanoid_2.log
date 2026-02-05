@@ -15519,3 +15519,570 @@ Sampler Limit: 32
 [2026.02.05-15.19.40:523][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.05-15.19.40:523][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9080.115234, Update Interval: 323.454681
 [2026.02.05-15.19.55:508][382]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.21.02:740][221]LogContentBrowser: Deferred new asset file creation: WBP_GameOver1
+[2026.02.05-15.21.02:771][221]LogContentBrowser: Creating deferred item: WBP_GameOver1
+[2026.02.05-15.21.02:816][222]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_GameOver1).
+[2026.02.05-15.21.08:026][388]LogContentBrowser: Attempting asset rename: WBP_GameOver1 -> WBP_Win
+[2026.02.05-15.21.08:102][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2026.02.05-15.21.08:134][388]LogContentBrowser: End creating deferred item WBP_GameOver1
+[2026.02.05-15.21.09:691][424]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/Interface/WBP_Win.WBP_Win
+[2026.02.05-15.21.09:692][424]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.05-15.21.09:720][424]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.05-15.21.18:832][652]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.05-15.21.20:136][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2026.02.05-15.21.20:840][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-15.21.21:000][688]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Interface/WBP_Win] ([2] browsable assets)...
+[2026.02.05-15.21.21:010][688]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/Interface/WBP_Win.WBP_Win]
+[2026.02.05-15.21.21:010][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Interface/WBP_Win]
+[2026.02.05-15.21.21:010][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Interface/WBP_Win" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_Win.uasset" SILENT=true
+[2026.02.05-15.21.21:039][688]LogSavePackage: Moving output files for package: /Game/BP/Interface/WBP_Win
+[2026.02.05-15.21.21:039][688]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/WBP_Win38FA3C824C995DE36E4FBFBAFF25DDA6.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/Interface/WBP_Win.uasset'
+[2026.02.05-15.21.21:079][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.311 ms (total: 22.0 sec)
+[2026.02.05-15.21.21:257][688]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-15.21.21:257][688]LogContentValidation: Enabled validators:
+[2026.02.05-15.21.21:258][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-15.21.21:258][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-15.21.21:258][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-15.21.21:258][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-15.21.21:258][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-15.21.21:258][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-15.21.21:259][688]AssetCheck: /Game/BP/Interface/WBP_Win Validating asset
+[2026.02.05-15.21.21:338][688]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Git/CasseBrique/Arkanoid/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.05-15.22.22:746][541]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.22.22:746][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.22.22:900][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.02.05-15.22.24:187][602]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.05-15.22.24:188][602]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.22.24:188][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.22.24:315][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.02.05-15.23.28:535][660]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h 
+[2026.02.05-15.23.32:953][660]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h : 42
+[2026.02.05-15.23.32:953][660]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2026.02.05-15.23.32:971][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:971][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:972][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:972][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:972][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:972][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:972][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:972][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:973][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:973][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:973][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:973][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:974][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:974][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:974][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:974][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:974][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:974][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:975][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:975][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:975][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:975][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:975][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:976][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:976][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:976][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:976][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:976][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:977][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:977][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:977][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:977][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:977][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:977][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:977][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:978][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:978][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:978][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:978][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:978][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:978][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:978][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:979][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:979][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:979][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:979][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:979][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:979][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:980][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:980][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:981][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:982][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:982][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:982][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:982][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:982][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:982][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:983][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:983][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:983][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:983][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:983][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:983][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:984][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:984][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:984][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:984][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:984][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:985][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:985][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:985][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:985][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:986][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:986][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:986][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:986][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:987][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:987][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:987][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:987][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:988][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:988][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:988][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:988][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:989][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:989][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:989][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:989][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:989][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:989][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:990][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:990][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:990][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:990][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:990][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:990][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:991][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.32:999][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:000][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:001][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:001][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:007][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:007][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:007][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:007][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:007][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:007][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:010][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:010][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:013][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:014][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:041][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:041][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:041][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:041][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:042][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:045][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:047][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:047][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:048][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:050][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:051][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:052][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:058][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:064][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:071][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:071][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:072][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:098][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:115][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:116][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:116][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:221][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:237][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:237][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:237][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:237][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:237][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:237][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:238][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:239][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:240][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:241][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:241][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:241][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:241][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:241][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:241][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:241][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:242][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:242][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:242][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:242][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:243][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:243][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:243][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:244][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:245][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:246][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:247][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:248][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:248][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:248][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:248][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:248][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:248][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:248][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:249][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:249][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:249][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:249][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:250][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:251][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:251][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:251][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:256][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:257][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:258][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:258][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:262][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:262][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:262][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:262][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:263][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:264][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:266][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:266][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:268][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:269][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:287][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:287][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:288][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:288][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:288][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:291][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:292][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:292][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:293][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:294][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:295][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:296][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:300][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:305][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:311][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:311][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:311][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:331][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:341][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:342][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.23.33:343][660]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.05-15.24.36:776][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.24.36:894][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.26.48:302][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.05-15.26.48:650][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.05-15.26.48:650][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.05-15.26.48:652][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.05-15.26.48:755][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.02.05-15.26.48:755][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.02.05-15.26.48:755][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.02.05-15.26.48:773][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.05-15.26.48:801][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.05-15.26.48:802][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.02.05-15.26.48:861][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 3 out of 16 tries.
+[2026.02.05-15.26.48:861][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 3 out of 16 tries.
+[2026.02.05-15.26.48:861][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 3 out of 16 tries.
+[2026.02.05-15.26.48:873][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.02.05-15.26.48:905][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.02.05-15.26.48:905][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.02.05-15.26.48:968][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 4 out of 16 tries.
+[2026.02.05-15.26.48:968][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 4 out of 16 tries.
+[2026.02.05-15.26.48:968][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 4 out of 16 tries.
+[2026.02.05-15.26.48:980][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 3 out of 16 tries.
+[2026.02.05-15.26.49:005][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 3 out of 16 tries.
+[2026.02.05-15.26.49:005][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 3 out of 16 tries.
+[2026.02.05-15.26.49:079][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 5 out of 16 tries.
+[2026.02.05-15.26.49:079][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 5 out of 16 tries.
+[2026.02.05-15.26.49:079][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 5 out of 16 tries.
+[2026.02.05-15.26.49:081][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 4 out of 16 tries.
+[2026.02.05-15.26.49:107][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 4 out of 16 tries.
+[2026.02.05-15.26.49:107][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 4 out of 16 tries.
+[2026.02.05-15.26.49:189][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 6 out of 16 tries.
+[2026.02.05-15.26.49:189][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 6 out of 16 tries.
+[2026.02.05-15.26.49:189][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 6 out of 16 tries.
+[2026.02.05-15.26.49:189][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 5 out of 16 tries.
+[2026.02.05-15.26.49:216][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 5 out of 16 tries.
+[2026.02.05-15.26.49:216][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 5 out of 16 tries.
+[2026.02.05-15.26.49:295][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 7 out of 16 tries.
+[2026.02.05-15.26.49:295][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 7 out of 16 tries.
+[2026.02.05-15.26.49:295][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 7 out of 16 tries.
+[2026.02.05-15.26.49:295][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 6 out of 16 tries.
+[2026.02.05-15.26.49:323][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 6 out of 16 tries.
+[2026.02.05-15.26.49:324][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 6 out of 16 tries.
+[2026.02.05-15.26.49:402][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 8 out of 16 tries.
+[2026.02.05-15.26.49:402][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 8 out of 16 tries.
+[2026.02.05-15.26.49:402][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 8 out of 16 tries.
+[2026.02.05-15.26.49:402][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 7 out of 16 tries.
+[2026.02.05-15.26.49:433][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 7 out of 16 tries.
+[2026.02.05-15.26.49:433][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 7 out of 16 tries.
+[2026.02.05-15.26.49:508][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 9 out of 16 tries.
+[2026.02.05-15.26.49:508][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 9 out of 16 tries.
+[2026.02.05-15.26.49:509][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 9 out of 16 tries.
+[2026.02.05-15.26.49:509][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 8 out of 16 tries.
+[2026.02.05-15.26.49:536][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 8 out of 16 tries.
+[2026.02.05-15.26.49:536][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 8 out of 16 tries.
+[2026.02.05-15.26.49:613][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 10 out of 16 tries.
+[2026.02.05-15.26.49:613][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 10 out of 16 tries.
+[2026.02.05-15.26.49:613][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 10 out of 16 tries.
+[2026.02.05-15.26.49:613][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 9 out of 16 tries.
+[2026.02.05-15.26.49:636][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 9 out of 16 tries.
+[2026.02.05-15.26.49:636][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 9 out of 16 tries.
+[2026.02.05-15.26.49:713][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 11 out of 16 tries.
+[2026.02.05-15.26.49:714][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 11 out of 16 tries.
+[2026.02.05-15.26.49:714][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 11 out of 16 tries.
+[2026.02.05-15.26.49:714][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 10 out of 16 tries.
+[2026.02.05-15.26.49:736][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 10 out of 16 tries.
+[2026.02.05-15.26.49:736][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 10 out of 16 tries.
+[2026.02.05-15.26.49:821][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 12 out of 16 tries.
+[2026.02.05-15.26.49:821][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 12 out of 16 tries.
+[2026.02.05-15.26.49:821][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 12 out of 16 tries.
+[2026.02.05-15.26.49:821][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 11 out of 16 tries.
+[2026.02.05-15.26.49:836][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 11 out of 16 tries.
+[2026.02.05-15.26.49:836][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 11 out of 16 tries.
+[2026.02.05-15.26.49:928][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 13 out of 16 tries.
+[2026.02.05-15.26.49:928][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 13 out of 16 tries.
+[2026.02.05-15.26.49:929][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 13 out of 16 tries.
+[2026.02.05-15.26.49:929][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 12 out of 16 tries.
+[2026.02.05-15.26.49:938][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 12 out of 16 tries.
+[2026.02.05-15.26.49:938][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 12 out of 16 tries.
+[2026.02.05-15.26.50:029][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 14 out of 16 tries.
+[2026.02.05-15.26.50:030][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 14 out of 16 tries.
+[2026.02.05-15.26.50:030][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 14 out of 16 tries.
+[2026.02.05-15.26.50:030][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 13 out of 16 tries.
+[2026.02.05-15.26.50:044][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 13 out of 16 tries.
+[2026.02.05-15.26.50:045][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 13 out of 16 tries.
+[2026.02.05-15.26.50:132][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 15 out of 16 tries.
+[2026.02.05-15.26.50:132][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 15 out of 16 tries.
+[2026.02.05-15.26.50:132][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 15 out of 16 tries.
+[2026.02.05-15.26.50:132][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 14 out of 16 tries.
+[2026.02.05-15.26.50:155][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 14 out of 16 tries.
+[2026.02.05-15.26.50:155][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 14 out of 16 tries.
+[2026.02.05-15.26.50:238][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 16 out of 16 tries.
+[2026.02.05-15.26.50:238][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 16 out of 16 tries.
+[2026.02.05-15.26.50:239][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 16 out of 16 tries.
+[2026.02.05-15.26.50:239][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 15 out of 16 tries.
+[2026.02.05-15.26.50:258][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 15 out of 16 tries.
+[2026.02.05-15.26.50:258][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 15 out of 16 tries.
+[2026.02.05-15.26.50:342][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 17 out of 16 tries.
+[2026.02.05-15.26.50:342][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 17 out of 16 tries.
+[2026.02.05-15.26.50:343][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 17 out of 16 tries.
+[2026.02.05-15.26.50:343][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 16 out of 16 tries.
+[2026.02.05-15.26.50:343][660]LogUdpMessaging: Warning: Gave up sending with 2 outstanding acks. Attempted 16 tries.
+[2026.02.05-15.26.50:343][660]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2026.02.05-15.26.50:344][660]LogUdpMessaging: Warning: Gave up sending with 2 outstanding acks. Attempted 16 tries.
+[2026.02.05-15.26.50:345][660]LogUdpMessaging: Warning: Gave up sending with 2 outstanding acks. Attempted 16 tries.
+[2026.02.05-15.26.50:345][660]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2026.02.05-15.26.50:345][660]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2026.02.05-15.26.50:358][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 16 out of 16 tries.
+[2026.02.05-15.26.50:358][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 16 out of 16 tries.
+[2026.02.05-15.26.50:446][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 17 out of 16 tries.
+[2026.02.05-15.26.50:446][660]LogUdpMessaging: Warning: Gave up sending with 2 outstanding acks. Attempted 16 tries.
+[2026.02.05-15.26.50:447][660]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2026.02.05-15.26.50:460][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 17 out of 16 tries.
+[2026.02.05-15.26.50:461][660]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 17 out of 16 tries.
+[2026.02.05-15.26.50:461][660]LogUdpMessaging: Warning: Gave up sending with 2 outstanding acks. Attempted 16 tries.
+[2026.02.05-15.26.50:461][660]LogUdpMessaging: Warning: Gave up sending with 2 outstanding acks. Attempted 16 tries.
+[2026.02.05-15.26.50:461][660]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2026.02.05-15.26.50:462][660]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2026.02.05-15.26.54:893][660]LogSlate: Window 'Save Content' being destroyed
+[2026.02.05-15.27.03:522][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.02.05-15.27.06:662][660]LogSlate: Window 'Save Content' being destroyed
+[2026.02.05-15.27.06:690][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-15.27.06:870][660]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Bricks] ([2] browsable assets)...
+[2026.02.05-15.27.06:903][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Bricks.BP_Bricks]
+[2026.02.05-15.27.06:903][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Bricks]
+[2026.02.05-15.27.06:903][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Bricks" FILE="../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Bricks.uasset" SILENT=true
+[2026.02.05-15.27.06:936][660]LogSavePackage: Moving output files for package: /Game/BP/BP_Bricks
+[2026.02.05-15.27.06:938][660]LogSavePackage: Moving '../../../../../../Git/CasseBrique/Arkanoid/Saved/BP_Bricks2540D29B42BF5B63AF4F90A6605B195E.tmp' to '../../../../../../Git/CasseBrique/Arkanoid/Content/BP/BP_Bricks.uasset'
+[2026.02.05-15.27.06:963][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 272.935 ms (total: 22.3 sec)
+[2026.02.05-15.27.07:058][660]LogStall: Shutdown...
+[2026.02.05-15.27.07:058][660]LogStall: Shutdown complete.
+[2026.02.05-15.27.07:182][660]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.05-15.27.07:182][660]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.07:182][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.07:517][660]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.05-15.27.07:517][660]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.07:517][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.07:748][660]LogScript: Warning: Accessed None trying to read (real) property As BP Paddle in BP_Ball_C
+	BP_Ball_C /Engine/Transient.World_6:PersistentLevel.BP_Ball_C_0
+	Function /Game/BP/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball:0516
+[2026.02.05-15.27.07:749][660]LogScript: Warning: Script Msg: The widget 'WBP_GameOver_C_0' does not have a World.
+[2026.02.05-15.27.07:749][660]LogScript: Warning: Script Msg called by: BP_Ball_C /Engine/Transient.World_6:PersistentLevel.BP_Ball_C_0
+[2026.02.05-15.27.07:749][660]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetPlayerController_ReturnValue in not an UClass
+	BP_Ball_C /Engine/Transient.World_6:PersistentLevel.BP_Ball_C_0
+	Function /Game/BP/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball:00A6
+[2026.02.05-15.27.07:754][660]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.05-15.27.07:754][660]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.07:754][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.07:986][660]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.07:986][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.07:997][660]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.07:997][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.08:076][660]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.08:076][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.08:089][660]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.08:089][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.08:300][660]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.08:301][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.08:319][660]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-15.27.08:319][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-15.27.08:468][660]LogSlate: Window 'Arkanoid - Unreal Editor' being destroyed
+[2026.02.05-15.29.24:557][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:181][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:338][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:338][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:338][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:367][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:367][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:442][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:464][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:486][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:486][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:554][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:554][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:568][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:568][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:590][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:590][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.25:989][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.26:137][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.29.26:607][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.33.00:499][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.39.34:431][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.31:278][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.151:50777, Sequence=0
+[2026.02.05-15.42.47:170][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:170][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:204][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.42.47:205][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.25:739][660]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.05-15.48.47:139][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:140][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:140][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:140][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:140][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:140][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:143][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:143][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:144][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:150][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:152][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:152][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:153][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:154][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:155][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:155][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:155][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:155][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:157][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:157][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:185][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.48.47:185][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.50.04:985][660]LogDerivedDataCache: C:/Users/charl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.05-15.51.47:129][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.51.47:176][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.51.47:176][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.51.47:176][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.51.47:176][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.51.47:176][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.51.47:176][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.51.47:176][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.53.21:950][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.53.21:950][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.53.21:950][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.53.21:952][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.53.21:952][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
+[2026.02.05-15.53.21:952][660]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.2.25:52478, Sequence=0
