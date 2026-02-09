@@ -1,0 +1,88 @@
+# Visual Studio 2015+ et IDEs
+.vs/
+.vscode/
+.idea/
+
+# Fichiers objets compilés
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+
+# Librairies dynamiques/statiques
+*.so
+*.dylib
+*.dll
+*.lai
+*.la
+*.a
+*.lib
+
+# Exécutables
+*.exe
+*.out
+*.app
+*.ipa
+
+# Fichiers projet générés
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Art précompilé
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+# Binaires et Builds
+Binaries/*
+Build/*
+Plugins/**/Binaries/*
+Plugins/**/Build/*
+
+# Whitelist fichiers PakBlacklist
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+
+# Données construites
+*_BuiltData.uasset
+
+# Fichiers Saved (config, logs, cache web)
+Saved/*
+
+# Intermediate compilés
+Intermediate/*
+Plugins/**/Intermediate/*
+
+# Cache éditeur
+DerivedDataCache/*
+Engine/DerivedDataCache/*
+
+# Fichiers temporaires UE
+*.uasset_tmp
+*.umap_tmp
+
+# Plugins développeur (optionnel)
+Plugins/Developer/*
+
+# Logs et crashs
+Saved/Logs/*
+Saved/Crashes/*
+
+# Rider/JetBrains
+*.sln.DotSettings.user
+*.DotSettings.user
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
